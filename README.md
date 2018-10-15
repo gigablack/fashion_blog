@@ -1,4 +1,4 @@
-# fashion_blog
+# Fashion Blog
 
 ## URL
 
